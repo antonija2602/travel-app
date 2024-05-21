@@ -58,7 +58,7 @@ export default function Footer() {
                         <a href="#">Account</a>
                         <a href="#">Privacy Policy</a>
                         <a href="#">Affiliate Program</a>
-                        <a href="#">Our Parners</a>
+                        <a href="#">Our Partners</a>
                         <a href="#">Events</a>
                     </ul>
                 </div>
