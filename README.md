@@ -1,7 +1,7 @@
 # React.js + Vite + Tailwind Css
 ## Full responsive
 
-## Live link     [https://app.netlify.com/sites/travelion-app/](https://app.netlify.com/sites/travelion-app/)
+## Live link     [(https://travelion-app.netlify.app/)](https://travelion-app.netlify.app/)
 
 ## Use
 -> Clone Code
