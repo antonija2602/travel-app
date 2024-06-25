@@ -56,7 +56,7 @@ export default function Destination() {
                     <img
                         className="object-cover h-52 w-full rounded-t-lg "
                         src={image}
-                        alt={country}
+                        alt={name}
                     />
                 </div>
                 <div className=" absolute inline-flex  justify-between top-4 left-4 right-4">
