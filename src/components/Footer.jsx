@@ -9,7 +9,7 @@ export default function Footer() {
                     <img
                         className=" size-20"
                         src="/images/logo.svg "
-                        alt=""
+                        alt="Airplane logo"
                     />
                     <p>
                         Welcome to out Trip and Tour Agency. Lorem ipsum dolor

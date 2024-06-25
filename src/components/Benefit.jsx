@@ -12,7 +12,7 @@ export default function Benefit() {
                 <img
                     className="hidden lg:flex w-1/3 object-cover "
                     src="/images/pool.jpg"
-                    alt=""
+                    alt="Pool, and mountains in the back"
                 />
                 <div
                     className="grid gap-5 text-stone-200 py-10 px-20
@@ -95,7 +95,7 @@ export default function Benefit() {
                     <div className=" flex justify-center  lg:w-1/2 w-full lg:mt-0 mt-14">
                         <img
                             src="/images/member1.jpg"
-                            alt=""
+                            alt="Group of people holding dices with letters join us"
                         />
                     </div>
                 </div>

@@ -35,7 +35,7 @@ export default function Destination() {
         return (
             <div className={`relative overflow-hidden h-72 ${column}`}>
                 <img
-                    className=" h-full w-full rounded-lg object-cover hoverImg"
+                    className=" h-full w-full rounded-lg object-cover "
                     src={image}
                     alt={country}
                 />
@@ -173,7 +173,7 @@ export default function Destination() {
                         <img
                             className="blob "
                             src="/images/blob2.jpg"
-                            alt=""
+                            alt="Friends on the mountain looking sunset"
                         />
                         {/* </div> */}
                         <div className=" absolute flex flex-col top-0 end-0 ">

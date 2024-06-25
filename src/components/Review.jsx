@@ -32,7 +32,7 @@ export default function Review() {
                     <img
                         className="size-32 rounded-full shadow-lg mb-5 object-cover"
                         src={image}
-                        alt=""
+                        alt={name}
                     />
                     <span className=" flex items-center ">
                         {[...Array(5)].map((_, index) => (

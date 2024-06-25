@@ -34,7 +34,7 @@ export default function Navbar() {
                 <img
                     className="size-14 lg:flex hidden "
                     src="./images/logo.svg"
-                    alt=""
+                    alt="Airplane logo"
                 />
             </div>
 
