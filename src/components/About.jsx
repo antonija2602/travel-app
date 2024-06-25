@@ -61,25 +61,25 @@ export default function About() {
                         <img
                             className="size-40   object-scale-down"
                             src="/images/brand2.png"
-                            alt=""
+                            alt="Air Seoul logo"
                         />
 
                         <img
                             className="size-40   object-scale-down"
                             src="/images/brand3.png"
-                            alt=""
+                            alt="Eurovision Song Contest logo"
                         />
 
                         <img
                             className="size-40  object-scale-down"
                             src="/images/brand4.png"
-                            alt=""
+                            alt="ITVN logo"
                         />
 
                         <img
                             className="size-40   object-scale-down"
                             src="/images/brand5.png"
-                            alt=""
+                            alt="Mosfin Capital Insurance Agency logo"
                         />
                     </div>
                 </div>
